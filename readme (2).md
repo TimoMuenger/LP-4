@@ -5,12 +5,14 @@
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was wäre ein geeignetes Projekt für diese LP4? Können Sie mit diesem Projekt zeigen, wie Sie sich selbständig in eine Problemstellung einarbeiten können und eine überzeugende Lösung programmieren können?
+Bis jetzt ist immernoch meine beste Note die aus dem Modul 431 und ungenügend war ich noch nirgends.
 
+2. Was wäre ein geeignetes Projekt für diese LP4? Können Sie mit diesem Projekt zeigen, wie Sie sich selbständig in eine Problemstellung einarbeiten können und eine überzeugende Lösung programmieren können?
+In dieser LP, möchte ich einen Cookie-Clicker machen.
 ## 14.2: Explorativer Wegwerf-Prototyp
 
-- [ ] ...
-- [ ] ...
+- [ ] Ein grobes design für den Clicker erstellen
+- [ ] Den Cookie clickbar machen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
