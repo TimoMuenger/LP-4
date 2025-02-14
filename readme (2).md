@@ -14,17 +14,16 @@ In dieser LP, möchte ich einen Cookie-Clicker machen.
 - [ ] Ein grobes design für den Clicker erstellen
 - [ ] Den Cookie clickbar machen
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich Grösstenteils mit dem designen beschäftig mit verschiedenen Hintergründen, Layouts, etc. Dadurch hatte ich Heute nicht mehr viel Zeit zum Coden, desswegen möchte ich fürs nächste mal mehr Zeit in das Coden investieren.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 21.2: Explorativer Wegwerf-Prototyp
 
-- [ ] ... (dieses AP sollte offline, also ohne Laptop zu bearbeiten sein)
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
+- [ ] Design auf Papier zeichenen auch für den Shop
+- [ ] Shop programieren so das ein zweites Forms aufgeht
+- [ ] Restliche Buttons programieren (Cookie, Clickanteige, Upgrades)
+- [ ] Layoutdesign nach Zeichnung auf Papier designen
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
