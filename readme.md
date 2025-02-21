@@ -20,8 +20,8 @@ In dieser LP, möchte ich einen Cookie-Clicker machen.
 
 ## 21.2: Explorativer Wegwerf-Prototyp
 
-- [ ] Design auf Papier zeichenen auch für den Shop
-- [ ] Shop programieren so das ein zweites Forms aufgeht
+- [x] Design auf Papier zeichenen auch für den Shop
+- [x] Shop programieren so das ein zweites Forms aufgeht
 - [ ] Restliche Buttons programieren (Cookie, Clickanteige, Upgrades)
 - [ ] Layoutdesign nach Zeichnung auf Papier designen
 ✍️ Heute habe ich... (50-100 Wörter)
