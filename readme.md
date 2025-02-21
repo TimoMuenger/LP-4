@@ -24,7 +24,8 @@ In dieser LP, möchte ich einen Cookie-Clicker machen.
 - [x] Shop programieren so das ein zweites Forms aufgeht
 - [ ] Restliche Buttons programieren (Cookie, Clickanteige, Upgrades)
 - [ ] Layoutdesign nach Zeichnung auf Papier designen
-✍️ Heute habe ich beim offline Arbeitspaket das design für den Cookieclicker und den Shop dazu gemacht. Auch habe ich meine ungefähre Vrostellung von dem Cookieclicker in einem Flowchart dargestellt. Das Design war danach einfach um zu setzten und ging relativ schnell. Den Cookie und den Cookiezähler waren auch kein Problem zu programmieren wie auch den Shop in einem zweiten Form zu machen. Die Uprgades allerding bereiteten mir Schwierigkeiten da es kompliziert ist Buttons auf dem zweizten Form zu drücken, welche dan auf dem ersten Form funktionieren sollten.
+
+✍️Heute habe ich beim offline Arbeitspaket das design für den Cookieclicker und den Shop dazu gemacht. Auch habe ich meine ungefähre Vrostellung von dem Cookieclicker in einem Flowchart dargestellt. Das Design war danach einfach um zu setzten und ging relativ schnell. Den Cookie und den Cookiezähler waren auch kein Problem zu programmieren wie auch den Shop in einem zweiten Form zu machen. Die Uprgades allerding bereiteten mir Schwierigkeiten da es kompliziert ist Buttons auf dem zweizten Form zu drücken, welche dan auf dem ersten Form funktionieren sollten.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
