@@ -1,21 +1,33 @@
-namespace LP_4
+using System;
+using System.Windows.Forms;
+
+namespace CookieClicker
 {
     public partial class Form1 : Form
     {
-        private     uint cookieClicked = 0;
+        public int cookies = 0;         
+        public int cookiesPerClick = 1; 
+
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void btnCookie_Click(object sender, EventArgs e)
         {
-            Total.Text = cookieClicked.ToString();
+            cookies += cookiesPerClick;
+            UpdateCookieLabel();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        public void UpdateCookieLabel()
         {
-            cookieClicked++;
+            lblCookies.Text = $"Cookies: {cookies}";
+        }
+
+        private void btnOpenUpgrade_Click(object sender, EventArgs e)
+        {
+            FormUpgrade upgradeForm = new FormUpgrade(this);
+            upgradeForm.Show();
         }
     }
 }

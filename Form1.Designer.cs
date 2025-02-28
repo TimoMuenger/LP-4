@@ -1,17 +1,12 @@
-﻿
-namespace LP_4
+﻿namespace CookieClicker
 {
     partial class Form1
     {
-        /// <summary>
-        ///  Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Button btnCookie;
+        private System.Windows.Forms.Label lblCookies;
+        private System.Windows.Forms.Button btnOpenUpgrade;
 
-        /// <summary>
-        ///  Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -21,63 +16,44 @@ namespace LP_4
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            Total = new Label();
-            pictureBox1 = new PictureBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            btnCookie = new Button();
+            lblCookies = new Label();
+            btnOpenUpgrade = new Button();
             SuspendLayout();
-            // 
-            // Total
-            // 
-            Total.AutoSize = true;
-            Total.Location = new Point(254, 9);
-            Total.Name = "Total";
-            Total.Size = new Size(33, 15);
-            Total.TabIndex = 4;
-            Total.Text = "Total";
-            Total.Click += label1_Click;
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
-            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
-            pictureBox1.Location = new Point(202, 113);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(158, 157);
-            pictureBox1.TabIndex = 6;
-            pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
-            // 
-            // Form1
-            // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(612, 371);
-            Controls.Add(pictureBox1);
-            Controls.Add(Total);
+            btnCookie.BackColor = Color.White;
+            btnCookie.Font = new Font("Comic Sans MS", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnCookie.ForeColor = Color.Black;
+            btnCookie.Location = new Point(100, 107);
+            btnCookie.Name = "btnCookie";
+            btnCookie.Size = new Size(150, 150);
+            btnCookie.TabIndex = 0;
+            btnCookie.Text = "Cookie";
+            btnCookie.UseVisualStyleBackColor = false;
+            btnCookie.Click += btnCookie_Click;
+            lblCookies.Font = new Font("Comic Sans MS", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblCookies.Location = new Point(100, 45);
+            lblCookies.Name = "lblCookies";
+            lblCookies.Size = new Size(200, 40);
+            lblCookies.TabIndex = 1;
+            lblCookies.Text = "Cookies: 0";
+            btnOpenUpgrade.BackColor = Color.LightBlue;
+            btnOpenUpgrade.Font = new Font("Comic Sans MS", 12F, FontStyle.Bold);
+            btnOpenUpgrade.Location = new Point(76, 274);
+            btnOpenUpgrade.Name = "btnOpenUpgrade";
+            btnOpenUpgrade.Size = new Size(200, 50);
+            btnOpenUpgrade.TabIndex = 2;
+            btnOpenUpgrade.Text = "Shop";
+            btnOpenUpgrade.UseVisualStyleBackColor = false;
+            btnOpenUpgrade.Click += btnOpenUpgrade_Click;
+            ClientSize = new Size(400, 400);
+            Controls.Add(btnCookie);
+            Controls.Add(lblCookies);
+            Controls.Add(btnOpenUpgrade);
             Name = "Form1";
-            Text = "Form1";
-            Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            Text = "Cookie Clicker";
             ResumeLayout(false);
-            PerformLayout();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
-        #endregion
-        private Label Total;
-        private PictureBox pictureBox1;
     }
 }
