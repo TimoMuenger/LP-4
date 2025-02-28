@@ -33,7 +33,12 @@ In dieser LP, möchte ich einen Cookie-Clicker machen.
 - [ ] Informieren wie man die Upgrades am besten Programmiert
 - [ ] Upgrades für den Cursor wie auch den Autoclicker Programmieren
 
+✍️Heute habe ich mir mit ChatGPT Beispiele geholt wie ich die Upgrades am besten machen soll. Den Code den ChatGPT mir gegeben hat, hatte Fehler drin, bei denen ich mir nicht sicher war wie ich diese wegbekommen sollte. Trotzdem hat der Hauptteil des Codes funktioniert und ich konnte viel mitnehmen. Also kann ich beim nächsten mal die verschiednen Upgrades in meinen Code übernehmen.
+
 ## 7.3: Kern-Funktionalität
+Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades für den Autoclicker die ich nächste Woche machen möchte
+- [ ] Upgrades für Curosr übernehmen
+- [ ] dasselbe für die Autoclicker(Recherche, programmieren, etc.)
 
 ## 14.3: Architektur ausbauen
 
