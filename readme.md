@@ -37,10 +37,15 @@ In dieser LP, möchte ich einen Cookie-Clicker machen.
 
 ## 7.3: Kern-Funktionalität
 Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades für den Autoclicker die ich nächste Woche machen möchte
-- [ ] Upgrades für Curosr übernehmen
+- [x] Upgrades für Curosr übernehmen
 - [ ] dasselbe für die Autoclicker(Recherche, programmieren, etc.)
+✍️Heute konnte ich nach einigen Komplikationen das Upgrade für den Cursor machen und möchte für das nächste mal meinen Code mit einem Autoclicker erweitern.
+
 
 ## 14.3: Architektur ausbauen
+- [ ] Upgrade für Autoclicker (Recherche, programmieren, etc.)
+- [ ] verschiedene Upgrade Stufen für Cursor und Autoclicker machen
+- [ ] Design verschönern vom Cookieclicker (echter Cookie, schönere Schrift)
 
 ## 21.3: Architektur ausbauen
 
