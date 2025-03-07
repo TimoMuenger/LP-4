@@ -1,12 +1,13 @@
 using System;
 using System.Windows.Forms;
+using CookieClicker;
 
 namespace CookieClicker
 {
     public partial class Form1 : Form
     {
-        public int cookies = 0;         
-        public int cookiesPerClick = 1; 
+        public int cookies = 0;
+        public int cookiesPerClick = 1;
 
         public Form1()
         {
@@ -19,15 +20,21 @@ namespace CookieClicker
             UpdateCookieLabel();
         }
 
+
+
         public void UpdateCookieLabel()
         {
             lblCookies.Text = $"Cookies: {cookies}";
         }
 
-        private void btnOpenUpgrade_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            FormUpgrade upgradeForm = new FormUpgrade(this);
-            upgradeForm.Show();
+            if (cookies >= 20)
+            {
+                cookies -= 20;
+                cookiesPerClick++;
+                 UpdateCookieLabel();
+            }
         }
     }
 }
