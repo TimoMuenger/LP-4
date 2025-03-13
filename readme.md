@@ -39,15 +39,20 @@ In dieser LP, möchte ich einen Cookie-Clicker machen.
 Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades für den Autoclicker die ich nächste Woche machen möchte
 - [x] Upgrades für Curosr übernehmen
 - [ ] dasselbe für die Autoclicker(Recherche, programmieren, etc.)
+      
 ✍️Heute konnte ich nach einigen Komplikationen das Upgrade für den Cursor machen und möchte für das nächste mal meinen Code mit einem Autoclicker erweitern.
 
 
 ## 14.3: Architektur ausbauen
-- [ ] Upgrade für Autoclicker (Recherche, programmieren, etc.)
-- [ ] verschiedene Upgrade Stufen für Cursor und Autoclicker machen
-- [ ] Design verschönern vom Cookieclicker (echter Cookie, schönere Schrift)
+- [x] Upgrade für Autoclicker (Recherche, programmieren, etc.)
+- [x] verschiedene Upgrade Stufen für Cursor und Autoclicker machen
+- [x] Design verschönern vom Cookieclicker (echter Cookie, schönere Schrift)
+      
+✍️Heute habe ich den Haupteil mit den ganzen Upgrades fertiggestellt, wie auch das Design und die Schrift verschönert
 
 ## 21.3: Architektur ausbauen
+- [ ] Eine Anzeige hinzufügen, dass man sieht wie teuer die Upgrades sind
+- [ ] Eine Anzeige hinzufügen, dass man sieht wie viele von den Upgrades man schon gekauft hat
 
 ## 28.3: Auspolieren
 
