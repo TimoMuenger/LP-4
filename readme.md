@@ -51,10 +51,15 @@ Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades fü
 ✍️Heute habe ich den Haupteil mit den ganzen Upgrades fertiggestellt, wie auch das Design und die Schrift verschönert
 
 ## 21.3: Architektur ausbauen
-- [ ] Eine Anzeige hinzufügen, dass man sieht wie teuer die Upgrades sind
-- [ ] Eine Anzeige hinzufügen, dass man sieht wie viele von den Upgrades man schon gekauft hat
+- [x] Eine Anzeige hinzufügen, dass man sieht wie teuer die Upgrades sind
+- [x] Eine Anzeige hinzufügen, dass man sieht wie viele von den Upgrades man schon gekauft hat
+
+✍️Heute habe ich die Lables programmiert mit denen man sehen kann, wie viele Upgrades man gekauft hat und wie teuer diese sind.
 
 ## 28.3: Auspolieren
+- [ ] Design vom Cookie verbessern (weisse Umrandung entfernen)
+- [ ] Design von den Upgradebuttons verbessern
+- [ ] Hintergrund vom Cookie Clicker verschönern
 
 ## 4.4: Auspolieren & Abschluss
 
