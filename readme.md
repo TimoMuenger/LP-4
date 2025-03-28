@@ -60,6 +60,10 @@ Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades fü
 - [x] Design vom Cookie verbessern (weisse Umrandung entfernen)
 - [ ] Design von den Upgradebuttons verbessern
 - [x] Hintergrund vom Cookie Clicker verschönern
+✍️Heute habe ich  alles Erledigt bis auf das Design für die Upgrade buttons, da ich nicht wusste wie man diese Transparent macht. Nach dan AP hatte ich dann noch genug Zeit um einen Rebirthbutton zu programmieren.
 
 ## 4.4: Auspolieren & Abschluss
+- [ ] Den Code durchschauen und übersehbar gestallten
+- [ ] Kleine Änderungen beim GUI unternehmen falls nötig
+
 
