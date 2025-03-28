@@ -76,8 +76,8 @@ Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades fü
 ✍️Heute habe ich meinen Code ausgeputzt und mein Projekt für die LP 4 fertiggestellt
 
 ## Reflexion LP-4
-In dieser Lernperiode habe ich vieles neues über WinForms gelert. Mit meinem Projekt dem Cookie Clicker bin ich nach vielen gescheiterten und komplizierten Arbeitspaketen doch schlussendlich fertig geworden.
+In dieser Lernperiode habe ich vieles neues über WinForms gelert. Mit meinem Projekt dem Cookie Clicker bin ich nach einigen gescheiterten und komplizierten Arbeitspaketen doch schlussendlich fertig geworden.
 Auch wenn ich für meinen Cookie Clicker gerne ein zweites Form mit einem Shop gehabt hätte, bin ich trotz dessen zufrieden mit meinem Projekt und vorallem mit dem Wissen das ich mitgenommen habe wärend der LP-4.
-Abschloiessend kann ich sagen, dass die LP-4 eine erfolgreiche LP für mich war und das ich gerne mit WinForms arbeite.
+Abschloiessend kann ich sagen, dass die LP-4 eine erfolgreiche Lernperiode für mich war und das ich gerne mit WinForms arbeite.
 
 
