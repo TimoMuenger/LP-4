@@ -57,9 +57,9 @@ Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades fü
 ✍️Heute habe ich die Lables programmiert mit denen man sehen kann, wie viele Upgrades man gekauft hat und wie teuer diese sind.
 
 ## 28.3: Auspolieren
-- [ ] Design vom Cookie verbessern (weisse Umrandung entfernen)
+- [x] Design vom Cookie verbessern (weisse Umrandung entfernen)
 - [ ] Design von den Upgradebuttons verbessern
-- [ ] Hintergrund vom Cookie Clicker verschönern
+- [x] Hintergrund vom Cookie Clicker verschönern
 
 ## 4.4: Auspolieren & Abschluss
 
