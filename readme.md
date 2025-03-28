@@ -1,6 +1,11 @@
 # Lern-Periode 4
 
 14.2 bis 4.4
+## Vorstellung Projekt
+Mein Projekt ist ein Cookie Clicker. Dieser funktioniert wie ein Cookieclicker den wir alle kennen mit den verschiedenen Upgrades. Ich habe in meinem Cookie Clicker allerdings ein Feature, welches nicht sehr üblich ist für einen CookieClicker,
+nähmlich den Rebirth. Der Rebirth erlaubt es dem Spieler für alle Upgrades das Doppelte an Cookies zu erhalten, allerdings muss er dafür seinen bisher erarbeiteten Spielstand aufgeben, da alles gelöscht wird.
+![image](https://github.com/user-attachments/assets/b51a9557-6359-425e-bee9-0b758a0d243f)
+
 
 ## Grob-Planung
 
@@ -66,5 +71,10 @@ Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades fü
 - [x] Den Code durchschauen und übersehbar gestallten
 - [x] Kleine Änderungen beim GUI unternehmen falls nötig
 ✍️Heute habe ich meinen Code ausgeputzt und mein Projekt für die LP 4 fertiggestellt
+
+## Reflexion LP-4
+In dieser Lernperiode habe ich vieles neues über WinForms gelert. Mit meinem Projekt dem Cookie Clicker bin ich nach vielen gescheiterten und komplizierten Arbeitspaketen doch schlussendlich fertig geworden.
+Auch wenn ich für meinen Cookie Clicker gerne ein zweites Form mit einem Shop gehabt hätte, bin ich trotz dessen zufrieden mit meinem Projekt und vorallem mit dem Wissen das ich mitgenommen habe wärend der LP-4.
+Abschloiessend kann ich sagen, dass die LP-4 eine erfolgreiche LP für mich war und das ich gerne mit WinForms arbeite.
 
 
