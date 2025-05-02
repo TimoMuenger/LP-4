@@ -5,7 +5,10 @@
 Mein Projekt ist ein Cookie Clicker. Dieser funktioniert wie ein Cookie Clicker den wir alle kennen, mit den verschiedenen Upgrades. Ich habe in meinem Cookie Clicker allerdings ein Feature, welches nicht sehr üblich ist für einen Cookie Clicker,
 nämlich den Rebirth. Der Rebirth erlaubt es dem Spieler für alle Upgrades das Doppelte an Cookies zu erhalten, allerdings muss er dafür seinen bisher erarbeiteten Spielstand aufgeben, da alles gelöscht wird.
 
-![image](https://github.com/user-attachments/assets/b51a9557-6359-425e-bee9-0b758a0d243f)
+
+
+https://github.com/user-attachments/assets/bd3e67d2-31da-4057-9820-d9914ff6f151
+
 
 
 ## Grob-Planung
