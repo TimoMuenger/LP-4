@@ -1,9 +1,9 @@
 # Lern-Periode 4
 
 14.2 bis 4.4
-## Vorstellung Projekt
-Mein Projekt ist ein Cookie Clicker. Dieser funktioniert wie ein Cookieclicker den wir alle kennen mit den verschiedenen Upgrades. Ich habe in meinem Cookie Clicker allerdings ein Feature, welches nicht sehr üblich ist für einen CookieClicker,
-nähmlich den Rebirth. Der Rebirth erlaubt es dem Spieler für alle Upgrades das Doppelte an Cookies zu erhalten, allerdings muss er dafür seinen bisher erarbeiteten Spielstand aufgeben, da alles gelöscht wird.
+## Fertiges Projekt
+Mein Projekt ist ein Cookie Clicker. Dieser funktioniert wie ein Cookie Clicker den wir alle kennen, mit den verschiedenen Upgrades. Ich habe in meinem Cookie Clicker allerdings ein Feature, welches nicht sehr üblich ist für einen Cookie Clicker,
+nämlich den Rebirth. Der Rebirth erlaubt es dem Spieler für alle Upgrades das Doppelte an Cookies zu erhalten, allerdings muss er dafür seinen bisher erarbeiteten Spielstand aufgeben, da alles gelöscht wird.
 
 ![image](https://github.com/user-attachments/assets/b51a9557-6359-425e-bee9-0b758a0d243f)
 
@@ -11,7 +11,7 @@ nähmlich den Rebirth. Der Rebirth erlaubt es dem Spieler für alle Upgrades das
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Bis jetzt ist immernoch meine beste Note die aus dem Modul 431 und ungenügend war ich noch nirgends.
+Bis jetzt ist immer noch meine beste Note die aus dem Modul 431 und ungenügend war ich noch nirgends.
 
 2. Was wäre ein geeignetes Projekt für diese LP4? Können Sie mit diesem Projekt zeigen, wie Sie sich selbständig in eine Problemstellung einarbeiten können und eine überzeugende Lösung programmieren können?
 In dieser LP, möchte ich einen Cookie-Clicker machen.
