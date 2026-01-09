@@ -1,4 +1,4 @@
-# Lern-Periode 4
+# Lernperiode 4
 
 14.2 bis 4.4
 ## Fertiges Projekt
@@ -78,3 +78,4 @@ Meine Kernfunktionalität sind die Upgrades für den Cursor wie die Upgrades fü
 In dieser Lern-Periode habe ich vieles neues über WinForms gelernt. Mit meinem Projekt, dem Cookie Clicker, bin ich nach einigen gescheiterten und komplizierten Arbeitspaketen doch schlussendlich fertig geworden.
 Auch wenn ich für meinen Cookie Clicker gerne eine zweite Form mit einem Shop gehabt hätte, bin ich trotz dessen zufrieden mit meinem Projekt und vor allem mit dem Wissen, das ich mitgenommen habe während der Lern-Periode-4.
 Abschliessend kann ich sagen, dass die Lern-Periode-4 eine erfolgreiche Lern-Periode für mich war und dass ich gerne mit WinForms arbeite.
+
